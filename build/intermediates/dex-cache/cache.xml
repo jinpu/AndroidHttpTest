@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/classes-0e98a633cef633841215ce2b2d18367d5b5df6d4.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/classes-9fff28a9d9fa8edaa8f94649809dbe9d2833ddee.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/libs/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-fe5dbf8e7add0eff0a9fa52df7ab7e7150f3678e.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-df97f5b210fe9053290f3f410116c95b7f217cc3.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/gson-2.3.1-6225271c8e9f5355ce715c68fbc190b2b7f1cf06.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/libs/okhttp-urlconnection-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="375c2206eb7e52976955d0f8737be5e0ec9cf667">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-1.6.0-be1ad0d5cdf11bc241177be8668e21f637f96445.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/libs/httpclient-4.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="872a71eac51131524f72f3100781dd88a42c9ccc">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/httpclient-4.2.2-421d630f2386aba4d1c68209d16b1aa0c206a369.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/classes-285c4f922b7c7ef4c2b35a333458bd2cd2e30e32.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/libs/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/okio-1.6.0-14a18bdf9240e62884c0a48135bd9b9a2dc3c8ed.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/classes-4a3debe846a85096905e6caa094b046865715e0b.jar" />
+    </item>
+    <item
+        jar="/home/jinpu/D/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/jinpu/D/android-code/OkhttpOfHttp2/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-da62fbe5de29dc57fb00f8f7bcdd4a43c6e947ed.jar" />
+    </item>
+
+</items>

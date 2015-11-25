@@ -1,0 +1,25 @@
+TASK com.example.jinpu.okhttpofhttp2 id=34
+  ACTIVITY com.example.jinpu.okhttpofhttp2/.MainActivity 49e6485 pid=4257
+    Local FragmentActivity 5adaefa State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@6fb3de3
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@6fb3de3
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{666b3e0 V.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{3c90699 V.E..... ... 0,0-1080,1776}
+          android.view.ViewStub{ff09d5e G.E..... ... 0,0-0,0 #10203a9 android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{e19d53f V.E..... ... 0,0-1080,1776}
+            android.support.v7.internal.widget.FitWindowsLinearLayout{db32e0c V.E..... ... 0,0-1080,1776 #7f0c0055 app:id/action_bar_root}
+              android.support.v7.internal.widget.ViewStubCompat{69a7355 G.E..... ... 0,0-0,0 #7f0c0056 app:id/action_mode_bar_stub}
+              android.support.v7.internal.widget.ContentFrameLayout{7a5316a V.E..... ... 0,0-1080,1776 #1020002 android:id/content}
+                android.support.design.widget.CoordinatorLayout{860865b V.ED.... ... 0,0-1080,1776}
+                  android.support.design.widget.AppBarLayout{f6b1ef8 V.E..... ... 0,72-1080,240}
+                    android.support.v7.widget.Toolbar{fdbefd1 V.E..... ... 0,0-1080,168 #7f0c0069 app:id/toolbar}
+                  android.widget.LinearLayout{5cfa36 V.E..... ... 0,240-1080,1776}
+                    android.support.v7.widget.AppCompatButton{7972d37 VFED..C. ... 48,48-1032,192 #7f0c006b app:id/id_button}
+                    android.support.v7.widget.AppCompatTextView{aaf32a4 V.ED.V.. ... 48,192-1032,1488 #7f0c006c app:id/id_textview}
+                  android.support.design.widget.FloatingActionButton{cdeb80d VFED.... ... 864,1560-1032,1728 #7f0c006a app:id/fab}
+        android.view.View{df683c2 V.ED.... ... 0,1776-1080,1920 #1020030 android:id/navigationBarBackground}
